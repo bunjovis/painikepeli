@@ -1,0 +1,14 @@
+.gameover {
+  color: red;
+}
+.gameover a {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+}
+.gameover a:hover {
+  color: black;
+}
+.gameover h2 {
+  font-size: 2em;
+}
