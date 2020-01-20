@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Buttongame</h1>
+        <h1>Painikepeli</h1>
         <p>
           Press the button to get points (maybe). Easy and fun, isn&lsquo;t it?
         </p>
@@ -26,9 +26,9 @@ function App() {
         </Router>
       </div>
       <footer className="App-footer">
-        Buttongame made by Kari Harmaahieta
+        Painikepeli made by Kari Harmaahieta
         <br />
-        <a href="https://github.com/bunjovis">Link to my GitHub</a>
+        <a href="https://github.com/bunjovis/painikepeli">GitHub</a>
       </footer>
     </div>
   );

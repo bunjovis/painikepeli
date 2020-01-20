@@ -1,6 +1,6 @@
 # Painikepeli
 
-Welcome to my first React projects repository! This project was made for [Koodarijahti](https://koodarijahti.fi/). Live demo of the game is available at [here](http://eiviela.com).
+Welcome to my first React projects repository! This project was made for [Koodarijahti](https://koodarijahti.fi/). Live demo of the game is available [here](https://boiling-caverns-01198.herokuapp.com/) (hosted at [Heroku](https://www.heroku.com)).
 
 This project is a multiplayer game about pressing a button. Each player starts with 20 points. Each press of button costs one point. You can only press the button if you have points. The server has a counter of every button press and you might get a point reward if you press at the right time.
 Rewards:
